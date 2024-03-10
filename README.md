@@ -1,4 +1,5 @@
 ### Hey, I'm Fethi 👋🏽
+I'm Front-end developer based in Algeria, and I'm passionate about crafting digital experiences.
 
 <!--
 **FethiAmari/fethiamari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
